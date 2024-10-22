@@ -20,6 +20,24 @@ https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
 
 In the initial data preparation phase, the following task were performed:
 
-1.
-2.
-3.
+1.Data loading and inspection
+
+2.Data cleaning: The following columns were deleted due to a lack of utility for the analysis
+- Employeecount
+- Over18
+- StandardHours
+- JobLevel
+- StockOptionsLevel
+
+### Data transformation: 
+1.Renaming columns
+- EmployeeNumber for EmployeeID
+- BusinessTravel for TravelFrequency
+- DistanceFromHome for DistanceFromHomeKM
+
+2.Creating columns: 
+- Age group
+- Generation
+- Distance
+- Year with current manager
+
