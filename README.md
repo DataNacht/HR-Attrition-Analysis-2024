@@ -30,14 +30,30 @@ In the initial data preparation phase, the following task were performed:
 - StockOptionsLevel
 
 ### Data transformation: 
+
 1.Renaming columns
 - EmployeeNumber for EmployeeID
 - BusinessTravel for TravelFrequency
 - DistanceFromHome for DistanceFromHomeKM
 
-2.Creating columns: 
-- Age group
+2.Creating new columns: 
+- Etary group
 - Generation
-- Distance
+- Distance to work
 - Year with current manager
+- Performance rating
+- Relationship with manager in years
+- Job experience
+
+### Exploratory Data Analysis
+
+EDA involved exploring the company's attrition to adress key questions, such as:
+
+- What is the profile and demographical information of the employees leaving the company?
+- What is the impact of wellness over employees in attrition?
+- How the employees' work performance is related to attrition?
+  
+
+### Data analysis
+
 
