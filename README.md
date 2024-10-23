@@ -87,22 +87,30 @@ Here it is the final data model for the HR team users:
 3.Wellness data: It shows different attributes that impacts on employees' wellness such as job and relationships satisfaction, work-life balance:
 ![3](https://github.com/user-attachments/assets/9be58b88-3ec1-4f0a-a876-b303543e5947)
 
-4.Exploratory Data Analysis: This sector involves cross analysis data between attrition employees and demographics/wellness levels to adress human resources related questions:
+4.Exploratory Data Analysis: This sector involves cross analysis data between attrition employees and demographics/wellness levels to develop insights and look for patterns across attrition data, such as Attrition profiling, relationship with employees' wellness and work performance:
 ![4](https://github.com/user-attachments/assets/ad4ec4ff-939b-4806-add1-dee8e34ce3a4)
 ![5](https://github.com/user-attachments/assets/c6e764bc-0149-4dc9-98ff-86fc6509904f)
 ![6](https://github.com/user-attachments/assets/b94d7e8b-19df-4ad3-8894-4dce7f2c8c32)
 
 
-
-- What is the profile and demographical information of the employees leaving the company?
-- What is the impact of wellness over employees in attrition?
-- How the employees' work performance is related to attrition?
-  
-
 ### Results and Findings
 --- 
+A storytelling was created to adress the EDA objectives detailed below:
+
+1. Attrition demographical profile:
+
+![Gender](https://github.com/user-attachments/assets/a9dc3538-b3cd-472c-a0bc-61e37e136e89)
+
+![Generation](https://github.com/user-attachments/assets/c926f8e6-4195-4c7a-8e03-cd278f48e9a2)
+
+![Marital status](https://github.com/user-attachments/assets/3b48e820-ff13-4b20-ab7f-06dae34dd2ac)
+
+![Geographical data](https://github.com/user-attachments/assets/2bb6bdfa-5024-4b59-a837-94cbb13e9d05)
+
+- Most of the employees that commonly resign contract were males, millenials, bachelors and lived at a short distance from their workplace.
 
 
+2. 
 ### Recommendations
 --- 
 
