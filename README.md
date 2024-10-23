@@ -125,7 +125,17 @@ A storytelling was created to adress the EDA objectives detailed below:
 - Research and sales departments employees with also lower income are at higher risk of attrition than others.
 
 
-3. 
+3. Wellness and attrition cross analysis:
+![Satisfactionwithwork](https://github.com/user-attachments/assets/d9c76c3c-3b53-4086-a2b3-1a4e966c5fc5)
+
+![Relationshipwithmanager](https://github.com/user-attachments/assets/a98f8515-d992-4ad4-8808-cde569e37704)
+
+- People that are prone to leave the company usually has a weaker connection with their manager, and this could likely be due to not have the time to establish a solid relationship.
+-  Attrition employees are unsatisfied with their work.
+-  
 ### Recommendations
+
+![Recommendations](https://github.com/user-attachments/assets/0a405cf8-a2bd-400b-84cf-5794dd1f1004)
+
 --- 
 
