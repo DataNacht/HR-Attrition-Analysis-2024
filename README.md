@@ -15,7 +15,7 @@
 ### Project Overview
 --- 
 
-This is a People Analytics' project focus on providing insights about Employee's Attrition on an IBM fictional data set. This project is uniquely created with the intention of learning and practice analytical skills. The objectives are to analyse the employeee's profile, identify possible trends and make data-driven recommendations so as to develop a crucial understanding of the staff's attrition inside the company.
+This is a People Analytics' project focus on the creation of an analitical app that can provide insights about Employee's Attrition for Human Resources, which was based on an IBM fictional data set. This project was solely created with the intention of learning and practice analytical skills. The objectives are to analyse the employeee's profile, identify possible trends and make data-driven recommendations so as to develop a crucial understanding of the staff's attrition inside the company.
 
 
 ### Data Sources
@@ -74,11 +74,25 @@ In the initial data preparation phase, the following task were performed:
 - RelationshipSatisfaction
 - WorkLifeBalance
 
-### Exploratory Data Analysis
---- 
-![1](https://github.com/user-attachments/assets/da7a8510-24d9-40fd-8f91-07bb99afa545)
 
-EDA involved exploring the company's attrition to adress key questions, such as:
+### Data visualization and report
+
+Here it is the final data model for the HR team users:
+
+1. Main hub: Navigational buttons to move across pages ![1](https://github.com/user-attachments/assets/da7a8510-24d9-40fd-8f91-07bb99afa545)
+
+2.Employees demographical data: It contains information about employees in company like etary group, generation,marital status, KPI's with total employees and job experience, but also about their academical background:
+![2](https://github.com/user-attachments/assets/8491a8e1-8d51-4f25-b285-d0476555a7b0)
+
+3.Wellness data: It shows different attributes that impacts on employees' wellness such as job and relationships satisfaction, work-life balance:
+![3](https://github.com/user-attachments/assets/9be58b88-3ec1-4f0a-a876-b303543e5947)
+
+4.Exploratory Data Analysis: This sector involves cross analysis data between attrition employees and demographics/wellness levels to adress human resources related questions:
+![4](https://github.com/user-attachments/assets/ad4ec4ff-939b-4806-add1-dee8e34ce3a4)
+![5](https://github.com/user-attachments/assets/c6e764bc-0149-4dc9-98ff-86fc6509904f)
+![6](https://github.com/user-attachments/assets/b94d7e8b-19df-4ad3-8894-4dce7f2c8c32)
+
+
 
 - What is the profile and demographical information of the employees leaving the company?
 - What is the impact of wellness over employees in attrition?
