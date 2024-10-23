@@ -13,22 +13,31 @@
   
 
 ### Project Overview
+--- 
 
 This is a People Analytics' project focus on providing insights about Employee's Attrition on an IBM fictional data set. This project is uniquely created with the intention of learning and practice analytical skills. The objectives are to analyse the employeee's profile, identify possible trends and make data-driven recommendations so as to develop a crucial understanding of the staff's attrition inside the company.
 
 
 ### Data Sources
+--- 
 Employee Attrition Data: The primary dataset for this analysis is the "WA_Fn-UseC_-HR-Employee-Attrition.csv" file, containing detailed information about employees' attributes.
 The data set was downloaded from this source:
 
 https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
 
 
-
 ### Tools
-- Qliksense -Data Cleaning, Data modelling, Data Analysis, Data Visualization and Storytelling-
+--- 
+Qliksense:
+- Data Extract and Load
+- Data Cleaning
+- Data Transformation
+- Data Analysis
+- Data Visualization
+- Storytelling
 
 ### Data Cleaning and Preparation
+--- 
 
 In the initial data preparation phase, the following task were performed:
 
@@ -41,7 +50,8 @@ In the initial data preparation phase, the following task were performed:
 - JobLevel
 - StockOptionsLevel
 
-### Data transformation: 
+### Data transformation 
+--- 
 
 1.Renaming columns
 - EmployeeNumber for EmployeeID
@@ -65,6 +75,8 @@ In the initial data preparation phase, the following task were performed:
 - WorkLifeBalance
 
 ### Exploratory Data Analysis
+--- 
+![1](https://github.com/user-attachments/assets/da7a8510-24d9-40fd-8f91-07bb99afa545)
 
 EDA involved exploring the company's attrition to adress key questions, such as:
 
@@ -74,7 +86,9 @@ EDA involved exploring the company's attrition to adress key questions, such as:
   
 
 ### Results and Findings
+--- 
 
 
 ### Recommendations
+--- 
 
