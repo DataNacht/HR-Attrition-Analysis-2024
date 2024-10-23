@@ -1,11 +1,23 @@
 # HR Attrition Analysis (2024)
 
+# Table of Contents
+
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools](#tools)
+- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+- [Data Transformation](#data-transformation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Results and Findings](#results-and-findings)
+- [Recommendations](#recommendations)
+  
+
 ### Project Overview
 
-This is a People Analytics' project focus on providing insights about Employee's Attrition on an IBM fictional data set. This project is uniquely created with the intention of learning and to develop analytical skills, thus the objectives are to analyse the employeee's profile, identify possible trends and make data-driven recommendations with the intention of develop a crucial understanding of the staff's attrition inside the company.
+This is a People Analytics' project focus on providing insights about Employee's Attrition on an IBM fictional data set. This project is uniquely created with the intention of learning and practice analytical skills. The objectives are to analyse the employeee's profile, identify possible trends and make data-driven recommendations so as to develop a crucial understanding of the staff's attrition inside the company.
 
 
-### Data sources
+### Data Sources
 Employee Attrition Data: The primary dataset for this analysis is the "WA_Fn-UseC_-HR-Employee-Attrition.csv" file, containing detailed information about employees' attributes.
 The data set was downloaded from this source:
 
@@ -16,7 +28,7 @@ https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
 ### Tools
 - Qliksense -Data Cleaning, Data modelling, Data Analysis, Data Visualization and Storytelling-
 
-### Data Cleaning/Preparation
+### Data Cleaning and Preparation
 
 In the initial data preparation phase, the following task were performed:
 
@@ -61,6 +73,8 @@ EDA involved exploring the company's attrition to adress key questions, such as:
 - How the employees' work performance is related to attrition?
   
 
-### Results/Findings
+### Results and Findings
 
+
+### Recommendations
 
