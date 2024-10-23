@@ -132,9 +132,14 @@ A storytelling was created to adress the EDA objectives detailed below:
 
 - People that are prone to leave the company usually has a weaker connection with their manager, and this could likely be due to not have the time to establish a solid relationship.
 -  Attrition employees are unsatisfied with their work.
--  
+  
 ### Recommendations
 
+- A better onboarding process, social activies and develop a strong connection with a manager from the start could represent a way to create a solid bond between them.
+- Give proper benefits for the case of employees with lower incomes
+- Develop follow ups more frequently that can detect unsatisfaction at work and prevent it.
+- Create new instances and workplaces adapted for interests of millenials, younger staff and bachelors, so as to create a strong community that shares values between them.
+- Reduce work hours so as to avoid burnout in new team members.
 ![Recommendations](https://github.com/user-attachments/assets/0a405cf8-a2bd-400b-84cf-5794dd1f1004)
 
 --- 
