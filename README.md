@@ -110,7 +110,22 @@ A storytelling was created to adress the EDA objectives detailed below:
 - Most of the employees that commonly resign contract were males, millenials, bachelors and lived at a short distance from their workplace.
 
 
-2. 
+2. Attrition and wellness cross analysis:
+![Performance](https://github.com/user-attachments/assets/031db797-1d72-446a-9567-cc14958bf802)
+
+![overtime](https://github.com/user-attachments/assets/6d595abd-79c0-4e26-b4a2-f7b7a604c90f)
+
+![Jobexperience](https://github.com/user-attachments/assets/a3bbddbe-6e68-45be-9c60-ff290d1a313a)
+
+![Podium](https://github.com/user-attachments/assets/9a72dc8b-9937-49e5-b32b-aed9b7ce79d6)
+
+- Attrition is likely to happen in specifics roles and with lower income.
+- Employees in attrition also work more hours than others.
+- Less job experience at work could also represent higher risk for attrition.
+- Research and sales departments employees with also lower income are at higher risk of attrition than others.
+
+
+3. 
 ### Recommendations
 --- 
 
