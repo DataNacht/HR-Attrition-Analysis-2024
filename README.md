@@ -61,6 +61,6 @@ EDA involved exploring the company's attrition to adress key questions, such as:
 - How the employees' work performance is related to attrition?
   
 
-### Data analysis
+### Results/Findings
 
 
